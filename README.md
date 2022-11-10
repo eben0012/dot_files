@@ -6,6 +6,6 @@ See https://github.com/andyneff/dot for more info, including how to use this pat
 
 # Setting up on a new computer
 
-1. `git clone https://{git server repo}.git ~/.dot`
+1. `git clone https://github.com/eben0012/dot_files.git ~/.dot`
 2. `~/.dot/install.bsh`
 3. There is no step 3
