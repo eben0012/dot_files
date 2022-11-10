@@ -1,0 +1,11 @@
+# You may delete this if you don't use it.
+
+# function setup()
+# {
+#   echo "Put custom install steps here"
+# }
+
+# function unsetup()
+# {
+#   echo "Put custom uninstall steps here, basically to undo any custom steps you added in setup"
+# }

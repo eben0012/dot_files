@@ -1,0 +1,3 @@
+[submodule "external/dot_core"]
+	path = external/dot_core
+	url = https://github.com/andyneff/dot.git
